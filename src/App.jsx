@@ -53,7 +53,7 @@ export default function App() {
         )}
       </div>
       <div className='footer'>
-        <p>copyright reserved @ Narendra 2026 . All rights reserved</p>
+        <p>copyright reserved @ 2500090288-Narendra 2026 . All rights reserved</p>
       </div>
     </div>
   )
